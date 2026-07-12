@@ -1,4 +1,4 @@
-import type { TestQuestion } from "@/types/test";
+import type { TestQuestion } from "../types/test";
 
 export const TEST_QUESTIONS: readonly TestQuestion[] = [
   {

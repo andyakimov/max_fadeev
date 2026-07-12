@@ -1,4 +1,4 @@
-import type { Confidence, StageNumber } from "@/types/test";
+import type { Confidence, StageNumber } from "../types/test";
 
 export function calculatePoints(
   isCorrect: boolean,
